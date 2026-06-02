@@ -64,7 +64,7 @@ h3 {
 
 .layout {
   display: grid;
-  grid-template-columns: repeat(2, minmax(340px, 1fr));
+  grid-template-columns: repeat(4, minmax(340px, 1fr));
   gap: 8px;
   padding: 8px;
 }

@@ -5,7 +5,7 @@
 [![Web Audio API](https://img.shields.io/badge/Web_Audio_API-Supported-orange.svg)](https://developer.mozilla.org/de/docs/Web/API/Web_Audio_API)
 [![Compliance Status](https://img.shields.io/badge/DIN_EN_ISO-9001_&_17025-purple.svg)](#-isodin-konformität--qualitätssicherung)
 
-> **Roboto Labdroid** ist eine hochmoderne, multimodale Sicherheits- und Qualitätsprüfungs-Matrix für Labore und industrielle Testumgebungen. Sie vereint deterministische Messungen (Bild- und Spektralanalysen) mit einer intelligenteren, sprachsynthetisierten KI-Erklärschicht (LLM) und einer revolutionär benutzerfreundlichen, freihändigen Sprachsteuerung (**Parlor-Modus**).
+> **Roboto Labdroid** ist eine hochmoderne, multimodale Sicherheits- und Qualitätsprüfungs-Matrix für Labore und industrielle Testumgebungen. Sie vereint deterministische Messungen (Bild- und Spektralanalysen) mit einer intelligenteren, sprachsynthetisierten KI-Erklärschicht (LLM) und einer revolutionär benutzerfreundlichen, freihändigen Sprachsteuerung.
 
 ---
 
@@ -13,27 +13,11 @@
 
 Hier entsteht nach dem ersten Live-Lauf Platz für visuelle Eindrücke deines Systems:
 
-```text
-+---------------------------------------------------------------------------------+
-|                                Roboto Labdroid                                  |
-|   [O] Hilfe-Modus (Aktiv)                     [O] Parlor-Modus (VAD & TTS)      |
-+---------------------------------------------------------------------------------+
-|  1) Job & Provider               |  2) Kamera & Video-Filter                    |
-|  +-----------------------------+ |  +----------------------------------------+  |
-|  | Domain: [PCB  ]             | |  | [ Kamera starten ] [ Frame übernehmen ]|  |
-|  | Device: [lab-cam-01]        | |  |                                        |  |
-|  |                             | |  |          [ Live-Video ROI ]            |  |
-|  | Prompt: C13 prüfen...       | |  |                                        |  |
-|  | [Job starten]               | |  | Brightness [=========] 100%            |  |
-|  +-----------------------------+ |  +----------------------------------------+  |
-+---------------------------------------------------------------------------------+
-|                              🤖 LABDROID ASSISTANT (Sidebar)                     |
-|  -> Laborprüf-Domain (ISO 9001): Legt die deterministischen Grenzwerte fest...    |
-+---------------------------------------------------------------------------------+
-```
+# [MB](./backend/README.md) ｜ Backend README
 
-> _Tipp für GitHub-Besucher: Sobald du eigene Bildschirmfotos angefertigt hast, lege sie einfach in ein Verzeichnis namens `screenshots/` ab und verlinke sie hier:_
-> `![Roboto Labdroid Dashboard](screenshots/dashboard.png)`
+# [MB](./frontend/README.md) ｜ Frontend README
+
+# ![pic](roboto-labdroid.jpg)
 
 ---
 
