@@ -5,7 +5,7 @@
 [![Web Audio API](https://img.shields.io/badge/Web_Audio_API-Supported-orange.svg)](https://developer.mozilla.org/de/docs/Web/API/Web_Audio_API)
 [![Compliance Status](https://img.shields.io/badge/DIN_EN_ISO-9001_&_17025-purple.svg)](#-isodin-konformität--qualitätssicherung)
 
-> **Roboto Labdroid** ist eine hochmoderne, multimodale Sicherheits- und Qualitätsprüfungs-Matrix für Labore und industrielle Testumgebungen. Sie vereint deterministische Messungen (Bild- und Spektralanalysen) mit einer intelligenteren, sprachsynthetisierten KI-Erklärschicht (LLM) und einer revolutionär benutzerfreundlichen, freihändigen Sprachsteuerung.
+> Ziel ist Roboto mit Labdroid zu vereinen. **Roboto Labdroid** soll eine hochmoderne, multimodale Sicherheits- und Qualitätsprüfungs-Matrix für Labore und industrielle Testumgebungen werden. Sie soll deterministische Messungen (Bild- und Spektralanalysen) mit einer intelligenteren, sprachsynthetisierten KI-Erklärschicht (LLM) und einer revolutionär benutzerfreundlichen, freihändigen Sprachsteuerung vereinen.
 
 ---
 
@@ -13,11 +13,7 @@
 
 Hier entsteht nach dem ersten Live-Lauf Platz für visuelle Eindrücke deines Systems:
 
-# [MB](./backend/README.md) ｜ Backend README
-
-# [MB](./frontend/README.md) ｜ Frontend README
-
-# ![pic](roboto-labdroid.jpg)
+# ![pic](roboto-labdroid.jpeg)
 
 ---
 
@@ -174,6 +170,14 @@ Dieses System wurde konzeptionell so entwickelt, dass es sich nahtlos in einen z
 1. **DIN EN ISO 9001 (Qualitätsmanagement):** Strukturierte Fehler- und Erfolgsrückverfolgung über automatisierte Replays (`/replay`).
 2. **DIN EN ISO/IEC 17025 (Prüflabore):** Eindeutige Trace-ID pro Inspektion zur unanfechtbaren Revisionssicherheit aller ermittelten Messwerte.
 3. **DIN EN ISO 9241 (Ergonomie):** Fehlerminimierung durch den integrierten und permanent abrufbaren interaktiven Hilfe-Assistenten am Arbeitsplatz.
+
+---
+
+# [Backend README](./backend/README.md)
+
+---
+
+# [Frontend README](./frontend/README.md)
 
 ---
 
