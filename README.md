@@ -1,4 +1,4 @@
-# 🤖 Roboto Labdroid
+# Roboto Labdroid
 
 [![Python Version](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg)](https://fastapi.tiangolo.com/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Übersicht & Screenshots
+## Übersicht & Screenshots
 
 Hier entsteht nach dem ersten Live-Lauf Platz für visuelle Eindrücke deines Systems:
 
@@ -32,14 +32,14 @@ Hier entsteht nach dem ersten Live-Lauf Platz für visuelle Eindrücke deines Sy
 +---------------------------------------------------------------------------------+
 ```
 
-> 💡 _Tipp für GitHub-Besucher: Sobald du eigene Bildschirmfotos angefertigt hast, lege sie einfach in ein Verzeichnis namens `screenshots/` ab und verlinke sie hier:_
+> _Tipp für GitHub-Besucher: Sobald du eigene Bildschirmfotos angefertigt hast, lege sie einfach in ein Verzeichnis namens `screenshots/` ab und verlinke sie hier:_
 > `![Roboto Labdroid Dashboard](screenshots/dashboard.png)`
 
 ---
 
-## ✨ Die Besonderheiten von Roboto Labdroid
+## Die Besonderheiten von Roboto Labdroid
 
-### 💬 1. Parlor-Modus (Audio-Visuelle Echtzeit-Konversation)
+### 1. Parlor-Modus (Audio-Visuelle Echtzeit-Konversation)
 
 Inspiriert vom _Parlor_-Projekt (https://github.com/fikrikarim/parlor), ermöglicht Roboto Labdroid eine völlig berührungslose (Hands-Free) Steuerung direkt am Messplatz:
 
@@ -47,7 +47,7 @@ Inspiriert vom _Parlor_-Projekt (https://github.com/fikrikarim/parlor), ermögli
 - **Intelligente Stille-Erkennung:** Sobald du aufhörst zu sprechen (1,2 Sekunden Ststille), löst die App **automatisch** ein hochauflösendes Frame-Capture aus und übermittelt Bild, Audiopegel und Kontext an das Backend-Prüfsystem.
 - **Sprechender Assistent (TTS):** Das Resultat wird vom Browser flüssig auf Deutsch vorgelesen. Ideal für Reinräume oder Arbeiten mit Schutzhandschuhen!
 
-### ℹ️ 2. Interaktiver Hilfe-Modus («Labdroid Companion»)
+### 2. Interaktiver Hilfe-Modus («Labdroid Companion»)
 
 Nie wieder Hilflosigkeit bei seltener Benutzung!
 
@@ -58,7 +58,7 @@ Nie wieder Hilflosigkeit bei seltener Benutzung!
   2. Einen wertvollen **Praxistipp** für deinen Labor-Alltag.
   3. Die zugehörige **DIN/ISO-Norm**, die diesen Arbeitsschritt reguliert.
 
-### 🛡️ 3. ISO/DIN-Konformität & Qualitätssicherung
+### 3. ISO/DIN-Konformität & Qualitätssicherung
 
 Roboto Labdroid trennt streng zwischen deterministischer (physikalischer) Messung und generativer Interpretation:
 
@@ -68,7 +68,7 @@ Roboto Labdroid trennt streng zwischen deterministischer (physikalischer) Messun
 
 ---
 
-## 🛠️ Systemarchitektur
+## Systemarchitektur
 
 Das System besteht aus zwei eigenständigen, perfekt kooperierenden Komponenten:
 
@@ -92,7 +92,7 @@ Das System besteht aus zwei eigenständigen, perfekt kooperierenden Komponenten:
 
 ---
 
-## 🚀 Schnellanleitung zur Inbetriebnahme
+## Schnellanleitung zur Inbetriebnahme
 
 ### Schritt 1: Backend einrichten & Preflight-Check
 
@@ -149,7 +149,7 @@ python -m http.server 5500
 
 ---
 
-## 📂 Deep Dive: Projekt-Dokumentationen
+## Deep Dive: Projekt-Dokumentationen
 
 Für detaillierte Entwicklungs- und Fachinformationen der einzelnen Schichten klicke auf die folgenden Verweise:
 
@@ -168,7 +168,7 @@ _Detaillierte Informationen findest du direkt im [Backend README](./backend/READ
 </details>
 
 <details>
-<summary>🎨 Frontend Deep Dive (Klicke zum Ausklappen)</summary>
+<summary>Frontend Deep Dive (Klicke zum Ausklappen)</summary>
 
 ### Architektur des Frontends
 
@@ -183,7 +183,7 @@ _Detaillierte Informationen findest du direkt im [Frontend README](./frontend/RE
 
 ---
 
-## 🛡️ ISO/DIN-Konformität & Qualitätssicherung
+## ISO/DIN-Konformität & Qualitätssicherung
 
 Dieses System wurde konzeptionell so entwickelt, dass es sich nahtlos in einen zertifizierten Laborverbund einfügt:
 
@@ -193,6 +193,6 @@ Dieses System wurde konzeptionell so entwickelt, dass es sich nahtlos in einen z
 
 ---
 
-## 📄 Lizenz
+## Lizenz
 
 Dieses Projekt ist für den internen Einsatz und die freie Veröffentlichung zur Weiterentwicklung lizenziert. Weitere Details findest du im Hauptverzeichnis.
