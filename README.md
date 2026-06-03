@@ -11,8 +11,6 @@
 
 ## Übersicht & Screenshots
 
-Hier entsteht nach dem ersten Live-Lauf Platz für visuelle Eindrücke deines Systems:
-
 # ![pic](roboto-labdroid.jpeg)
 
 ---
